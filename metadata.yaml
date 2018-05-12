@@ -1,0 +1,41 @@
+_repo: Translations-of-Shakuntala-and-Other-Works_16659
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Ryder, Arthur W. (Arthur William)
+    alias: Ryder, Arthur William
+    birthdate: 1877
+    deathdate: 1938
+    gutenberg_agent_id: '9679'
+    url: http://www.gutenberg.org/2009/agents/9679
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_W._Ryder
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kalidasa
+    alias: कालिदास
+    gutenberg_agent_id: '4247'
+    url: http://www.gutenberg.org/2009/agents/4247
+    wikipedia: http://en.wikipedia.org/wiki/K%C4%81lid%C4%81sa
+description: ''
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '2005-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16659'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sanskrit drama -- Translations into English'
+- !lcc 'PK'
+- !lcsh 'Sanskrit poetry -- Translations into English'
+tableOfContents: 'Introduction: Kalidasa, his life and writings -- Shakuntala -- The
+  story of Shakuntala -- The two minor dramas: I. Malavika and Agnimitra. II. Urvashi
+  -- The dynasty of Raghu -- The birth of the war-god -- The cloud-messenger -- The
+  seasons.'
+title: Translations of Shakuntala and Other Works
+url: http://www.gutenberg.org/ebooks/16659

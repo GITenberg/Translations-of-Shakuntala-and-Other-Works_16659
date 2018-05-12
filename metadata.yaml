@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4247
     wikipedia: http://en.wikipedia.org/wiki/K%C4%81lid%C4%81sa
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16659#Translations-of-Shakuntala-and-Other-Works
 gutenberg_bookshelf: Best Books Ever Listings
 gutenberg_issued: '2005-09-05'
 gutenberg_type: Text
